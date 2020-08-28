@@ -20,3 +20,6 @@ hr {
   border-width: 5px;
   width: 5%;
 }
+.feria:hover { background-color: green;}
+.plaza:hover { background-color: white;}
+.alturas:hover { background-color: red;}

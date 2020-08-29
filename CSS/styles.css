@@ -1,15 +1,28 @@
 body {
-  background-color: #EAF6F6;
+  margin: 0;
+}
+
+.YO  { background-color: green;}
+.LOVE { background-color: white;}
+.GRULLO { background-color: red;}
+
+.VISITA  { background-color: green;}
+.GUSTO { background-color: white;}
+.CONTACTO { background-color: red;}
+
+
+body {
+  background-color: #81b214;
 }
 
 h1 {
-  color: #1b6ca8;
+  color: white;
 }
 h2 {
-  color: #1b6ca8;
+  color: green;
 }
 h3 {
-  color: #1b6ca8;
+  color: white;
 }
 
 
@@ -20,3 +33,11 @@ hr {
   border-width: 5px;
   width: 5%;
 }
+
+.machos:hover { background-color: white;}
+.raul:hover { background-color: red;}
+
+
+.obelisco:hover { background-color: green;}
+.feria:hover { background-color: white;}
+.alturas:hover { background-color: red;}

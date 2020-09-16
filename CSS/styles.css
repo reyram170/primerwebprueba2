@@ -64,7 +64,7 @@ hr {
   transform: rotate(-45deg);
   position: absolute;
   left: 25%;
-  top: 60%;
+  top: 30%;
   animation: heartbeat 1.25s infinite;
 }
 
